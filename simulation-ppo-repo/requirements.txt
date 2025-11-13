@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+torch
+stable-baselines3
+gymnasium
+cma
+opencv-python  # optional, for video writing if used
